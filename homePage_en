@@ -1,31 +1,16 @@
 [
-    {"data":[
-        {"name":"Java","home":"https://www.java.com/","document":"https://www.oracle.com/java/technologies/java-se-api-doc.html","downLoad":"https://www.oracle.com/java/technologies/javase-downloads.html"},
-            {"name":"Python","home":"https://www.python.org/","document":"https://docs.python.org/3/","downLoad":"https://www.python.org/downloads/"},
-            {"name":"Php","home":"https://www.php.net/","document":"https://www.php.net/docs.php","downLoad":"https://www.php.net/downloads"},
-            {"name":"ASP.NEW","home":"https://dotnet.microsoft.com/apps/aspnet","document":"https://docs.microsoft.com/dotnet/","downLoad":"https://dotnet.microsoft.com/download"},
-            {"name":"Swift","home":"https://developer.apple.com/","document":"https://developer.apple.com/swift/resources/","downLoad":"https://apps.apple.com/us/app/xcode/id497799835?mt=12"}
-            ],
-        "title":"开发语言"},
+{"data":[{"name":"Idea","home":"https://www.jetbrains.com/","document":"https://www.jetbrains.com/idea/resources/","downLoad":"https://www.jetbrains.com/idea/download/"},
+        {"name":"Vs","home":"https://code.visualstudio.com/","document":"https://code.visualstudio.com/docs","downLoad":"https://code.visualstudio.com/Download"},
+        {"name":"Eclipse","home":"https://code.visualstudio.com/","document":"https://help.eclipse.org/2020-06/index.jsp","downLoad":"https://www.eclipse.org/downloads/"},
+        {"name":"Xcode","home":"https://developer.apple.com/xcode/","document":"https://help.apple.com/xcode/mac/current/","downLoad":"https://developer.apple.com/download/"}
+
+    ],
+    "title":"代码编辑器"},
     {"data":[{"name":"Idea","home":"https://www.jetbrains.com/","document":"https://www.jetbrains.com/idea/resources/","downLoad":"https://www.jetbrains.com/idea/download/"},
-            {"name":"Vs","home":"https://code.visualstudio.com/","document":"https://code.visualstudio.com/docs","downLoad":"https://code.visualstudio.com/Download"},
-            {"name":"Eclipse","home":"https://code.visualstudio.com/","document":"https://help.eclipse.org/2020-06/index.jsp","downLoad":"https://www.eclipse.org/downloads/"},
-            {"name":"Xcode","home":"https://developer.apple.com/xcode/","document":"https://help.apple.com/xcode/mac/current/","downLoad":"https://developer.apple.com/download/"}
+        {"name":"Vs","home":"https://code.visualstudio.com/","document":"https://code.visualstudio.com/docs","downLoad":"https://code.visualstudio.com/Download"},
+        {"name":"Eclipse","home":"https://code.visualstudio.com/","document":"https://help.eclipse.org/2020-06/index.jsp","downLoad":"https://www.eclipse.org/downloads/"},
+        {"name":"Xcode","home":"https://developer.apple.com/xcode/","document":"https://help.apple.com/xcode/mac/current/","downLoad":"https://developer.apple.com/download/"}
 
-        ],
-        "title":"代码编辑器"},
-    {"data":[{"name":"Git","home":"https://www.jetbrains.com/","document":"https://git-scm.com/doc","downLoad":"https://git-scm.com/downloads"},
-            {"name":"Vs","home":"https://code.visualstudio.com/","document":"https://code.visualstudio.com/docs","downLoad":"https://code.visualstudio.com/Download"},
-        ],
-        "title":"开发工具"},
-    {"data":[{"name":"Mysql","home":"https://www.mysql.com/","document":"https://dev.mysql.com/doc/","downLoad":"https://dev.mysql.com/downloads/mysql/"},
-            {"name":"Oracle","home":"https://www.oracle.com/index.html","document":"https://docs.oracle.com/en/database/oracle/oracle-database/index.html","downLoad":"https://www.oracle.com/downloads/"},
-        ],
-        "title":"数据库服务"},
-    {"data":[{"name":"Github","home":"http://www.github.com/"},
-            {"name":"StackOverflow","home":"https://stackoverflow.com/"},
-        ],
-        "title":"开发社区"},
-
-
+    ],
+    "title":"代码编辑器"}
 ]
